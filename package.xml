@@ -11,8 +11,8 @@
   <email>cweiske@php.net</email>
   <active>no</active>
  </lead>
- <date>2011-12-09</date>
- <time>17:08:40</time>
+ <date>2012-04-08</date>
+ <time>05:24:20</time>
  <version>
   <release>0.1.1</release>
   <api>0.1.0</api>
@@ -23,7 +23,7 @@
  </stability>
  <license uri="http://www.opensource.org/licenses/bsd-license.php">New BSD</license>
  <notes>
-- First version with postal code validation
+Request #17796 Added: counties for Sweden
  </notes>
  <contents>
   <dir baseinstalldir="/" name="/">
@@ -71,10 +71,10 @@
     <release>alpha</release>
     <api>alpha</api>
    </stability>
-   <date>2011-12-09</date>
+   <date>2012-04-08</date>
    <license uri="http://www.opensource.org/licenses/bsd-license.php">New BSD</license>
    <notes>
-- First version with postal code validation
+Request #17796 Added: counties for Sweden
    </notes>
   </release>
  </changelog>
